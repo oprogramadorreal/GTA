@@ -1,0 +1,16 @@
+{
+    "name": "GTAVideo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fd8285b90260bc946b8262e904b7fe04"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
